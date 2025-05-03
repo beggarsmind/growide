@@ -1,2 +1,0 @@
-# growide
-website demo
