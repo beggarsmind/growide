@@ -2,7 +2,7 @@ function toggleMenu() {
   document.getElementById('nav-list').classList.toggle('show');
 }
 
-const url = 'presentation_pdf/GROWIDE GREEN POWER ADVISORS - presentation.pdf';
+const url = 'presentation_pdf/GROWIDE_GREEN_POWER_ADVISORS_presentation.pdf';
 let pdfDoc = null,
   pageNum = 1,
   pageRendering = false,
